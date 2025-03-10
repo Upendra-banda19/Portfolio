@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sai Vivardhini Boggarapu Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; }
+        header { background: #222; color: white; text-align: center; padding: 20px; }
+        section { padding: 20px; max-width: 900px; margin: auto; background: white; margin-top: 20px; border-radius: 10px; }
+        h2 { color: #222; }
+        ul { list-style-type: none; padding: 0; }
+        li { background: #ddd; margin: 5px 0; padding: 10px; border-radius: 5px; }
+        .project { border-left: 5px solid #222; padding-left: 10px; margin-bottom: 10px; }
+        footer { text-align: center; padding: 10px; background: #222; color: white; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+       
+        <h1>Sai Vivardhini Boggarapu</h1>
+        <p>Java Full Stack Web Developer</p>
+    </header>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Enthusiastic and detail-oriented B.Tech in the field of Artificial Intelligence. A quick learner and adaptable team player, eager to leverage academic knowledge into practical skills.</p>
+    </section>
+    
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li><b>Technical Skills</b>Core Java (Oops Concepts,MutiThreading,Exception Handling, Collections</li>
+            <li><b>                </b>Advance Java (JDBC, JSP, Hibernate, Servelts)</li>
+            <li><b>Frontend Technologies: </b>HTML,CSS,JS, Bootstraps</li>
+            <li><b>Database</b>SQL,MySQL,Oracle</li>
+            
+        </ul>
+    </section>
+    
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Online food delivery system </h3>
+            <p>System Overview: The online food delivery system is a web-based platform that connects customers with local restaurants and food establishments, allowing users to browse menus, place orders, and have their food delivered to their doorstep.
+            </p>
+        </div>
+        
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: saivivardhiniboggarapu@gmail.com</p>
+        <p>LinkedIn: <a href="#">www.linkedin.com/in/sai-vivardhini-boggarapu-8b335225b </a></p>
+        <p>GitHub: <a href="#">https://github.com/saivivardhiniboggrapu</a></p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Your Name. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
